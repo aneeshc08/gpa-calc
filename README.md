@@ -1,2 +1,5 @@
-#How to use#
-enter your college gpa in the prompts provided
+# GPA CALCULATOR
+This is a college gpa calculator for GSU
+
+## How to use
+Enter your grades in the fields provided.
